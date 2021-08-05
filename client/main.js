@@ -1,6 +1,6 @@
 import { Template } from 'meteor/templating';
 import { ReactiveVar } from 'meteor/reactive-var';
-import './lib/components/button.html';
+import './lib/components/button.html'; //https://guide.meteor.com/structure.html#intro-to-import-export
 import './main.html';
 
 Template.hello.onCreated(function helloOnCreated() {
