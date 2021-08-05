@@ -1,0 +1,17 @@
+{
+  "plugins": [],
+  "styleguides": [
+    "60de11ac5889630c06c47f39"
+  ],
+  "components": [
+    {
+      "path": "client/lib/components/button.html",
+      "zeplinIds": [
+        "60de11d88ee8000ba16453c8"
+      ]
+    }
+  ],
+  "github": {
+    "repository": "torshinc/component-testing"
+  }
+}
